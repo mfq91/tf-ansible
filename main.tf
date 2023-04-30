@@ -2,6 +2,8 @@ provider "aws" {
   region     = var.region
 }
 
+# este es un cambio en la rama inventarioDinamico
+
 terraform {
   required_providers {
     aws = {
