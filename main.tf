@@ -4,6 +4,7 @@ provider "aws" {
 
 # este es un cambio en la rama inventarioDinamico
 # este es un segundo cambio en la rama inventarioDinamico
+# otro cambio más
 
 terraform {
   required_providers {
